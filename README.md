@@ -1,3 +1,4 @@
+_
 # mfm.js
 An MFM parser implementation with TypeScript.
 [Try it out!](https://runkit.com/npm/mfm-js)
